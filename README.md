@@ -12,7 +12,7 @@
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/sidx8/Chatbot-flow-builder.git
+git clone https://github.com/razakhan2003/drag-n-drop.git
 ```
 
 Navigate into the project directory:
